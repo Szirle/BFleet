@@ -1,0 +1,9 @@
+gradle*
+/*.iml
+.gradle
+gradle
+/local.properties
+/.idea/*
+/build
+.externalNativeBuild
+Fleet/build/*
